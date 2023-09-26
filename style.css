@@ -1,0 +1,188 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+
+
+}
+.contenedor-principal{
+	display: flex;
+
+width: 100%;
+height: 55vh;
+background: #ebebeb;
+justify-content: center;
+
+
+
+
+
+
+}
+.contenedor-secundario{
+
+	display: flex;
+	height: 338px;
+	flex-wrap: wrap;
+	width: 1184px;
+	background: white;
+	margin-bottom:30px ;
+
+
+	
+
+
+
+}
+
+
+
+.caja1{
+	width: 169px;
+	height: 169px;
+	display: flex;
+	justify-content: center;
+	
+	flex-direction: column;
+	font-size: 15px;
+	align-items: center;
+	gap: 15px;
+	border: thin solid #f5f2f2;  
+	box-sizing: border-box;
+}
+img{
+	width: 48px;
+	height: 48px;
+}
+.img1{
+	
+	
+
+}
+p{
+	margin: 0px;
+}
+.contenedor-cuerpo{
+	display: flex;
+
+
+	align-items: flex-end;
+	height: 500px;
+	justify-content: center;
+
+	
+	
+
+}
+.parraf1{
+	width: 140px;
+	
+	text-align: center;
+}
+.cabecera{
+	display: flex;
+	height: 90px;
+	width: 1000px;
+}
+.segundaparte{
+	display: flex;
+	margin: 0;
+	justify-content: center;
+	height: 34vh;
+
+
+}
+.metodos-pago{
+	width: 400px;
+	display: flex;
+	justify-content: space-evenly;
+	text-align: center;
+	height: 260px;
+	flex-direction: column;
+	font-size: 15px;
+	padding: 35px 45px 20px;
+	box-sizing: border-box;
+
+
+}
+h5{
+	margin: 0;
+}
+.cards{
+	width: 100%;
+}
+.jklñ{
+	font-size: 20px;
+	color: #4b4b4b;
+}
+
+.ñlkjh{
+	height: 70px;
+	border: 1px solid #ededed;
+	display: flex;
+	position: absolute;
+	top: 71%;
+	left: 40%;
+	transform: translate(-50%, -50%);
+	
+
+}
+.ñlkjh2{
+	height: 70px;
+	border: 1px solid #ededed;
+	position: absolute;
+	right: 40%;
+	transform: translate(-50%, -50%);
+	bottom: 23%;
+
+
+
+}
+.segundaparte {
+	color: #737373;
+}
+.qwert{
+	display: flex;
+	justify-content: center;
+}
+.pololo{
+	
+	
+	font-size: 22px;
+
+}
+.ñopi{
+	height: 55px;
+	color: #4b4b4b;
+}
+.footers{
+	display: flex;
+    font-size: 13px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	bottom: 9%;
+	right:43% ;
+	border-top: thin solid #ccc;
+	border-left: thin solid #ccc;
+	border-right: thin solid #ccc;
+	padding: 10px;
+}
+
+.ghjk{
+	width: 12px;
+	height: 12px;
+}
+
+.juan{
+	width: 893px;
+	border: 1px solid #ccc;
+}
+.mauro{
+	width: 888.6px;
+	border: 1px solid #ccc;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	right: -23%;
+}
+.poia {
+	color: #3483fa;
+}
